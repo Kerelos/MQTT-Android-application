@@ -1,3 +1,5 @@
+-# MQTT-Android-application
+
 In order to set the app up and running, please follow these steps:
 1) Download and install Android Studio from: https://developer.android.com/studio/
 2) Download the code of the "MQTT app" from Github. 
