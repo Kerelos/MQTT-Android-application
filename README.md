@@ -1,7 +1,7 @@
-# MQTT-Android-application
 In order to set the app up and running, please follow these steps:
 1) Download and install Android Studio from: https://developer.android.com/studio/
-2) Download the code of the "MQTT app" from Github.
+2) Download the code of the "MQTT app" from Github. 
+The link is: https://github.com/Kerelos/MQTT-Android-application
 3) Open Android Studio and run the app. The app can run on both the Android Emulator or a mobile phone connected through USB.
 4) For connecting and installing the app on a mobile phone through USB, you need to enable the Developer Options. For more info, please check this link: https://www.youtube.com/watch?v=p2oHD-06YcM
 
