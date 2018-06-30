@@ -1,0 +1,13 @@
+MQTT android application:
+
+Language: Java.
+I used it in all of my simple apps that I made before. It's really useful and what is important is that it has a lot of online resources.
+
+- I wanted to go through the process of building the app and working with the services of MQTT with myself. I went through the documentation and I learnt how to make the features of the app like: publish, subscribe, unsubscribe, connect and disconnect.
+- I didn't have much experience in working with apps having features like connecting to a server and sending and receiving messages.
+But while making the app, I learnt the skill of reading through the documentation and implementing by myself these kind of services which I thought previously were a complicated thing.
+- I also learnt how to deal with SQLite database thought android and how to insert and retrieve data from the SQLite database.
+- Regarding the testing approach, I made an account on " CloudMqtt " and I tested my services using the WebSocket UI in this approach:
+1) Sending from the websocket a message through a certain topic and it was received on the other sides of the subscribed devices to this topic.
+2) Added a temporarily Edittext view that is not now available in the app. Its main responsibility was to send more options of messages other than the switch and it worked successfully.
+- I also added Toast messages to test how the app will respond to different cases like connect, disconnect, unsubscribe, and subscribe.
